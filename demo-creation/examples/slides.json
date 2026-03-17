@@ -1,0 +1,68 @@
+[
+  {
+    "type": "cover",
+    "logo_domain": "example.com",
+    "title_line1": "SNOWFLAKE FOR",
+    "title_line2": "ACME CORP",
+    "subtitle": "Unlocking the Power of Your Data Platform",
+    "presenter": "Jane Smith",
+    "date": "March 2026",
+    "speaker_notes": "Welcome everyone. Today we'll walk through how Snowflake can transform your data workflows."
+  },
+  {
+    "type": "safe_harbor"
+  },
+  {
+    "type": "agenda",
+    "agenda_items": [
+      "Why We Are Here",
+      "Self-Service Analytics",
+      "Semantic Layer & Governed Metrics",
+      "AI-Powered Insights",
+      "Key Takeaways & Next Steps"
+    ],
+    "speaker_notes": "Here's what we'll cover today. Each section maps to a specific pain point we've heard from your team."
+  },
+  {
+    "type": "content_1col",
+    "title": "Why We Are Here",
+    "subtitle": "Your data platform is modern. Is your team getting full value from it?",
+    "body": "Your engineering team has built a strong foundation on Snowflake. But business users still depend on the data team for every question. Self-service analytics can unlock your investment and free your engineers to focus on platform work.",
+    "icon": "Performance Scale",
+    "speaker_notes": "Frame this around their pain: the data team is a bottleneck, business users wait days for answers."
+  },
+  {
+    "type": "chapter",
+    "variant": "1",
+    "title_line1": "SELF-SERVICE",
+    "title_line2": "ANALYTICS",
+    "speaker_notes": "Transition: Let's look at what self-service looks like in practice."
+  },
+  {
+    "type": "content_2col_titled",
+    "title": "Before and After: Data Access",
+    "left_title": "Today",
+    "left_body": "Business user has a question. Opens a ticket or Slacks the data team. Waits 2-5 days for a query to be written. Gets a static result that raises more questions. Repeat the cycle.",
+    "right_title": "With Snowflake Self-Service",
+    "right_body": "Business user has a question. Opens Snowsight or Cortex Code. Types their question in natural language. Gets an instant, governed answer. Explores follow-up questions independently.",
+    "speaker_notes": "The before/after contrast is powerful. Show the time savings and the autonomy gained."
+  },
+  {
+    "type": "content_3col_titled",
+    "title": "Key Takeaways",
+    "col1_title": "Unlock Your Investment",
+    "col1_body": "Your Snowflake platform is built. Self-service analytics unlocks it for every team.",
+    "col2_title": "One Source of Truth",
+    "col2_body": "Semantic Views eliminate metric ambiguity across regions and channels.",
+    "col3_title": "AI-Powered Insights",
+    "col3_body": "Snowflake Intelligence puts natural language access in every team member's hands.",
+    "speaker_notes": "Reinforce the three pillars. Each maps to a specific business outcome."
+  },
+  {
+    "type": "thank_you",
+    "title_line1": "THANK",
+    "title_line2": "YOU",
+    "contact": "jane.smith@snowflake.com",
+    "speaker_notes": "Open the floor for questions. Reference specific next steps discussed during the demo."
+  }
+]
